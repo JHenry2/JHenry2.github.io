@@ -1,0 +1,12 @@
+  <div class="contact">
+        <form action="google.com" method="get" class="form">
+            <p>Contact Form</p>
+            First name:<br>
+            <input class="formitem" type="text" name="firstname"><br>
+            Last name:<br>
+            <input class="formitem" type="text" name="lastname"><br>
+            Phone Number<br>
+            <input class="formitem" type="text" name="603"><br>
+            <input class="formitem" type="submit" value="submit">
+        </form>
+    </div>
