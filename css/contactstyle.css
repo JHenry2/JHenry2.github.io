@@ -1,0 +1,38 @@
+.img.img1 {
+height: 150px;
+
+
+}
+
+.img.img2 {
+height: 150px;
+
+}
+
+.img.img3 {
+height: 150px;
+
+
+}
+
+
+.form {
+    flex-grow: 1;
+    flex-basis: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.contact {
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #0be897;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
