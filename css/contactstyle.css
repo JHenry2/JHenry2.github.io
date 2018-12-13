@@ -15,6 +15,9 @@ height: 150px;
 
 }
 
+input {
+    background-color: red;
+}
 
 .form {
     flex-grow: 1;
@@ -23,6 +26,12 @@ height: 150px;
     justify-content: center;
     display: flex;
     flex-direction: column;
+}
+
+input:focus{
+background-color: white;
+
+
 }
 
 .contact {
